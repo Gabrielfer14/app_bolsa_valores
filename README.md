@@ -1,6 +1,6 @@
 # app_bolsa_valores
 
-A new Flutter project.
+nao sei se ta exatamente como pediu mas nao ta dando erro kkk
 
 ## Getting Started
 
